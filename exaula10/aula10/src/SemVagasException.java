@@ -1,0 +1,1 @@
+SemVagasException.java:
