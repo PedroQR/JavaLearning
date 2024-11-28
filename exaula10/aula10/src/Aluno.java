@@ -50,12 +50,4 @@ public class Aluno {
                 '}';
     }
 
-    // Método principal para teste
-    public static void main(String[] args) {
-        Aluno aluno = new Aluno("João Silva", "20240001", "Engenharia de Software");
-        System.out.println(aluno);
 
-        aluno.setCurso("Ciência da Computação");
-        System.out.println("Curso atualizado: " + aluno.getCurso());
-    }
-}
